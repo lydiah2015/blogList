@@ -1,6 +1,6 @@
 # bloglist
 
-This template should help get you started developing with Vue 3 in Vite.
+Activity tests  knowledge of Vue by using all the basic functions of a Single-File Component (SFC) and async methods to fetch remote data from an API and use computed properties to organize deeply nested object structures.
 
 ## Recommended IDE Setup
 
